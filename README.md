@@ -1,6 +1,7 @@
 # FreakLand
 
 freak land 일러스트 웹사이트 만들기
+
 (구성)
 - 메인 사이트
 - shop
