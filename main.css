@@ -1,0 +1,33 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.wrap {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+header {
+    background-color: antiquewhite;
+    flex: 0 0 30%;
+}
+section {
+    background-color: aqua;
+    flex: 1;
+}
+footer {
+    background-color: black;
+        flex: 0 0 5%;
+}
+
+.mainlogo   {
+    width: 35%;
+    height: 70%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 30%;
+    margin-top: 1%;
+}
